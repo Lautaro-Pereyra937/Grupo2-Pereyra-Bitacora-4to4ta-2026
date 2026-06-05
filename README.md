@@ -1,2 +1,6 @@
 # Grupo2-Pereyra-Bitacora-4to4ta-2026
 Bitácoras de mi trabajo en el proyecto final de la materia Proyecto Informático 1
+
+El dia de hoy 05/06 los integrantes de mi grupo(grupo n°2) realizamos el TP: Trabajo: Investigación y Esquema de un componente del proyectos final , este trabajo se trataba de investigar algun componente que nuestro proyecto final va a utilizar , nosotros elegimos el sensor de humedad ya que en nuestro proyecto final es totalmente fundamental si queremos medir la temperatura ambiente junto a la humedad actual. Juan Ojeda y Cesar Benítez se encargaron del esquema junto al codigo hecho en tinkercad , Federico Cabral , Leonel Mon Santucho y yo nos encargamos de responder las preguntas del trabajo practico. Cada uno nos ayudamos buscando informacion de Google , el sitio oficial de tinkercad , etc. Tambien fuimos charlando sobre cuales respuestas serian mejores , cuales quedarian mejor , etc.
+Yo hice las preguntas de "posibles usos en el proyecto y sus usos comunes en otros ámbitos" , esta informacion la obtuve de Google.
+A lo ultimo colocamos el pie de pagina , fuente y tamaño de letra para que nuestro trabajo final quede adecuadamente a las consignas que puso el profesor.
