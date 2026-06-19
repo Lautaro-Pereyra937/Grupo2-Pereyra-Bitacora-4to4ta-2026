@@ -1,2 +1,4 @@
 # Grupo2-Pereyra-Bitacora-4to4ta-2026
 Bitácoras de mi trabajo en el proyecto final de la materia Proyecto Informático 1
+
+Este dia junto con mi grup conformado pr Leonel Mon Santucho , Federico Cabral , Cesar Benitez , Juan Ojeda y Lautaro Pereyra(yo). Nos repartimos en varias partes la tarea que subio el profesor , a mi me toco la parte de: Definición detallada del alcance del proyecto (qué se incluye y qué no). Yo estuve redactando esta pregunta preguntandole a mi grupo tambien que podia quitar , poner , modificar , etc. Luego de terminar el texto referido al alcance de nuestro proyecto mi grupo y yo lo analizamos y llegamos al punto de que era lo mas acorde a lo que se referia la pregunta. Coloque las personas a las que queriamos llegar , a las que no , un breve resumen de como era el proyecto y cual es su fin.
