@@ -1,2 +1,3 @@
 # Grupo2-Pereyra-Bitacora-4to4ta-2026
 Bitácoras de mi trabajo en el proyecto final de la materia Proyecto Informático 1
+Este día el profesor envió una tarea en la cual había que investigar sobre un componente de nuestro futuro proyecto . Con mis compañeros conversamos y a mi me toco la fuente de alimentación. Fui buscando (aunque un poco ya sabia para que servía) investigue en tinkercad y Google. Complete los puntos , que no eran tantos la verdad , hice una conexión sencilla y saque una foto del componente en tinkercad. Esta tarea no era muy larga así que me habrá tomado unos 30 minutos en completarla. Luego me fije si mis compañeros necesitaban ayuda pero ellos ya estaban por terminar o habían terminado.
