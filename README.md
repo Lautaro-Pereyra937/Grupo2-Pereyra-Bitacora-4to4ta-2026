@@ -1,2 +1,4 @@
 # Grupo2-Pereyra-Bitacora-4to4ta-2026
 Bitácoras de mi trabajo en el proyecto final de la materia Proyecto Informático 1
+El día de hoy trabaje en el proyecto con la LCD con la función ajustarHora que se trataba de usar un teclado 4x4 para poder elegir que numero en el horario quería elegir el usuario , la función trataba de si el usuario tocaba A se ponía en modo horas , tocaba B en modo minutos y si tocaba D se ponía en modo segundos , esto lo hice con funciones booleanas para guardar ese modo , luego con el numero que el usuario toque en el teclado 4x4 se suma a la hora actual (segun formato horas,minutos o segundos) para mostrarse en la pantalla LCD.
+Los días anteriores también ayude al grupo con las demás funciones y conexiones pero no creo que era lo suficientemente largo para hacer una branch , ya que charlábamos sobre como podía hacerse y en el día lo íbamos terminando , básicamente aportando ideas.
