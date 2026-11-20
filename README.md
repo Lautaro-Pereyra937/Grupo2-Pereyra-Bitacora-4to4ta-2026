@@ -1,2 +1,1 @@
-# Grupo2-Pereyra-Bitacora-4to4ta-2026
-Bitácoras de mi trabajo en el proyecto final de la materia Proyecto Informático 1
+Ese día lo que realice fue básicamente completar la carpeta de campo. Faltaba ajustarlo a las normas APA , como la sangría , interlineado , tipo de letra(elegimos Times New Roman) , tamaño(que se usa 12) y mas cosas. Lo acomode como corresponde a las normas APA , también agregue fotos , como de la maqueta del proyecto , y la conexión física del Arduino, las llame como "Figura n". Eso fue lo que agregue , ademas 2/3 links de videos de un sensor de temperatura y un teclado 4x4 matricial.
